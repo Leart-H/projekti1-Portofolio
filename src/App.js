@@ -5,7 +5,7 @@ import About from './About';
 import Projects from './Projects';
 import Contact from './Contact';
 import Weather from './Weather';
-import Calculator from './Calculator';
+
 import TodoList from './ToDoList';
 
 function App() {
