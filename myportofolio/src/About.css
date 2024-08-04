@@ -1,0 +1,18 @@
+
+
+.about {
+    background-color: gray;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.about h2 {
+    color: #fff;
+}
+
+.about p {
+    color: #fff;
+    line-height: 1.6;
+}

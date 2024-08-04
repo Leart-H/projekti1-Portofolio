@@ -1,0 +1,42 @@
+.projects {
+    background-color: #e9ecef;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.projects h2 {
+    color: #333;
+}
+
+.projects-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.project {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project h3 {
+    color: #007bff;
+}
+
+.project p {
+    color: #555;
+    line-height: 1.6;
+}
+
+.project a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.project a:hover {
+    text-decoration: underline;
+}

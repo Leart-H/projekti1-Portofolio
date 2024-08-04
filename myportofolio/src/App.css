@@ -1,0 +1,12 @@
+
+html {
+  scroll-behavior: smooth;
+}
+.App section {
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.App section:nth-child(even) {
+  background-color: #f9f9f9;
+}

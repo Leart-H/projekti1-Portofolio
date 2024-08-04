@@ -1,0 +1,42 @@
+.weather {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.weather h2 {
+    color: #333;
+}
+
+.weather form {
+    margin-bottom: 20px;
+}
+
+.weather input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.weather button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: white;
+}
+
+.weather .weather-info {
+    margin-top: 20px;
+}
+
+.weather .weather-info h3 {
+    color: #007bff;
+}
+
+.weather .weather-info p {
+    color: #555;
+}
