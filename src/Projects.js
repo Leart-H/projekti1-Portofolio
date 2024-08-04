@@ -15,7 +15,7 @@ const projects = [
     {
         title: 'Calculator',
         description: 'A basic calculator app to perform simple arithmetic operations.',
-        link: '#calculator'
+        link: ''
     }
 ];
 

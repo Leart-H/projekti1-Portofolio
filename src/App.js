@@ -21,9 +21,7 @@ function App() {
                 </section>
                 <section id="weather-app">
                     <Weather />
-                </section>
-                <section id="calculator">
-                    <Calculator />
+                
                 </section>
                 <section id="todo-list">
                     <TodoList />
