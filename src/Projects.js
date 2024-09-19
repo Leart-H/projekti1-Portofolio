@@ -10,12 +10,12 @@ const projects = [
     {
         title: 'To-Do List',
         description: 'A to-do list app to manage your tasks efficiently.',
-        link: '#todo-list'
+        link: 'https://tdbyleartthebest.netlify.app/'
     },
     {
-        title: 'Calculator',
-        description: 'A basic calculator app to perform simple arithmetic operations.',
-        link: ''
+        title: 'Memory Game',
+        description: 'A game to see if u have a good memory',
+        link: 'https://memorygamelearth.netlify.app/'
     }
 ];
 
