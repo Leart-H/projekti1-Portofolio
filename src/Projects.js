@@ -5,7 +5,7 @@ const projects = [
     {
         title: 'Weather App',
         description: 'A simple weather app that shows the current weather of a specified location.',
-        link: '#weather-app'
+        link: 'https://weatherapplh.netlify.app/'
     },
     {
         title: 'To-Do List',
