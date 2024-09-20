@@ -1,7 +1,9 @@
 import React from 'react';
 import './Projects.css';
 import memoryImage from './memory.png';
-import todolistImage from './to do list.png'
+import todolistImage from './to do list.png';
+import weatherImage from './weatherapp.png';
+import mp3player from './mp3player.png'
 
 
 const projects = [
@@ -9,7 +11,7 @@ const projects = [
         title: 'Weather App',
         description: 'A simple weather app that shows the current weather of a specified location.',
         link: 'https://weatherapplh.netlify.app/',
-        image: 'https://cdn-icons-png.flaticon.com/512/7477/7477790.png',
+        image: weatherImage,
     },
     {
         title: 'To-Do List',
@@ -22,7 +24,13 @@ const projects = [
         description: 'A game to see if you have a good memory.',
         link: 'https://memorygamelearth.netlify.app/',
         image: memoryImage,
-    }
+    },
+    {
+        title: 'MP3 Player',
+        description: 'Listen to songs you like.',
+        link: 'https://leartimp3player.netlify.app/',
+        image: mp3player,
+    },
 ];
 
 const Projects = () => {
