@@ -36,7 +36,13 @@
     color: #007bff;
     text-decoration: none;
 }
-
+.project img{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
 .project a:hover {
     text-decoration: underline;
 }
