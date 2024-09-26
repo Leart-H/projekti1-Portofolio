@@ -3,7 +3,11 @@ import './Projects.css';
 import memoryImage from './memory.png';
 import todolistImage from './to do list.png';
 import weatherImage from './weatherapp.png';
-import mp3player from './mp3player.png'
+import mp3player from './mp3player.png';
+import Clock from './clock.png';
+import Mededation from './medetaion.png';
+import gallery from './gallery.png';
+import art from './canvas.png';
 
 
 const projects = [
@@ -30,6 +34,30 @@ const projects = [
         description: 'Listen to songs you like.',
         link: 'https://leartimp3player.netlify.app/',
         image: mp3player,
+    },
+    {
+        title: 'Analog-Clock',
+        description: 'Are u lost in the hours of my clock.',
+        link: 'https://analogclockbylearth.netlify.app/',
+        image: Clock,
+    },
+    {
+        title: 'Mededation App',
+        description: 'Have a bad day at work, and need some peace, use this mededation app for a more peacful life.',
+        link: 'https://medetationappbyleart.netlify.app',
+        image: Mededation,
+    },
+    {
+        title: 'Gallery',
+        description: 'A basic gallery.',
+        link: 'https://gallerybylearthajnuni.netlify.app',
+        image: gallery,
+    },
+    {
+        title: 'Art Canvas',
+        description: 'Give it a try maybe you could discover your hidden talent is art.',
+        link: 'https://gallerybylearthajnuni.netlify.app',
+        image: art,
     },
 ];
 

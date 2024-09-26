@@ -1,5 +1,5 @@
 .contact {
-    background-color: #f4f4f4;
+    background-color: grey;
     padding: 20px;
     margin: 20px;
     border-radius: 5px;
@@ -7,7 +7,7 @@
 }
 
 .contact h2 {
-    color: #333;
+    color: #ffffff;
 }
 
 .contact .form-group {
@@ -17,7 +17,7 @@
 .contact label {
     display: block;
     margin-bottom: 5px;
-    color: #555;
+    color: #d2c5c5;
 }
 
 .contact input,

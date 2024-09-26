@@ -1,5 +1,8 @@
+body{
+    background-color: rgb(33, 32, 32);
+}
 .projects {
-    background-color: #e9ecef;
+    background-color: grey;
     padding: 20px;
     margin: 20px;
     border-radius: 5px;
@@ -7,7 +10,7 @@
 }
 
 .projects h2 {
-    color: #333;
+    color: #ffffff;
 }
 
 .projects-list {
@@ -33,7 +36,7 @@
 }
 
 .project a {
-    color: #007bff;
+    color: #1486ff;
     text-decoration: none;
 }
 .project img{
